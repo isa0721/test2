@@ -1,0 +1,6 @@
+{
+  "name": "SVG 向量圖生成器",
+  "description": "使用 Gemini AI 即時生成、預覽、複製與下載 SVG 向量圖形的繁體中文創作工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
